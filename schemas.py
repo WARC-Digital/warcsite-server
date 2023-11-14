@@ -3,6 +3,7 @@ def project_single(proj) -> dict:
         "id": str(proj["_id"]),
         "title": proj["title"],
         "description": proj["description"],
+        "videoLink": proj["videoLink"],
         "client": proj["client"]
     }
 
