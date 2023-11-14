@@ -2,8 +2,4 @@
 /_pycache_
 /routes/_pycache_
 
-/static/images/*
-/static/videos/*
-
-!/static/images
-!/static/videos
+/static
